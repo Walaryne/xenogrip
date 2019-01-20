@@ -1,0 +1,147 @@
+Made by Walaryne                                                                                                                                                      
+
+
+
+
+
+
+
+                                                                               ..
+                                                                               ==.
+                                                                               =|=:
+                                                                 .%            =+++.
+                                                                _u>            =|+|=.
+                                                               <u2`            ==+++=.
+                                                             .ioX(             =+++|+=
+                                                            =nXXe`.__i<iii==>__=||=+++;
+                                                          =uXS21svuXSSS2S2XX2ooos||+++=.
+                                                        _uoXonnoS2X22S2S2S2SSSXSSSosi+|;
+                                                      _vdSSSSS2SS2S2X2S2S2S2S22S22SSoa>+.
+                                                     <uSoS22S2S2S2SS2SS2SSSS2SS2SS2SS2Xs>.
+                                                   .<oX2S2SS2S2S2Soonvvv1I1no222S2S2S2S2os.
+                                                  .vXS2SSS22S2S2SS2X2XS2Xoovvvnnn22S2S2SSSn;
+                                                 .v222S211v2S2SS2S2S2S2S2S2S2ovvSonvX2S2S2Sos.
+                                                .vSSSS1vuXSS2S2S2S2S2S2S2S2SSSSoaISoovX2S2SSSs,
+                                               .v2S221vXS22S2SS2S2S2SS2S2SS222SSSovIXXvnS2S2S2a;
+                                               <X2S21uX2S2X2S2S2S2SS2S2SS2S2XS22SSSovS2onS2S2SSa;.
+                 :=;;..                       =oX2SevX2S2S2S2S2S2S2S2S2S2S2S2S2S2S2Xo%SS2oX2S2SSa;
+                 =|++++=..                   .vSS2XlXS2SS2SS2S2S2SS2S2S2S2S2S2S2S2S2XS%nXSo2S2S2Ss,
+                 =++++++|=;..                %oS2S1nS2S2S2S2S2SS2S2S2S2S2S2S2S2SS2S2S2XvnS2X2S2S2Sc.
+                 :++++==++|+=:.             =n2S2SsS2S2S2S2S2S2S2S2S2SS2SS2SS2SS2S2S2S2SvS2S2SS2SSoi
+                  ++|++==++++|=;.           vvS2S2vS2S2SS2S2SS2S2SS2S2S2S2S2S2S2S2S2SS2Sov2S2S2S2SSo;
+                  =+++++===|+++|==..       :ovXnSonS2SS2S2SS2S2S2S2S2S2S2S2S2S2S2S2SS2S2XonSS2S2S22Ss.
+                  -++++++=;=++++|||=.      =ovSononS2S2S2S2S2S2SS2S2SS2SS2S2SS2SS2S2S2S2SSnS2S2SS2X2S(
+                   =|=+|=+=;=++|+|=+|;.    )2n22vonX2S1S2S2S2S2S2S2S2S2S2S2SS2S2S2SS2S2S2SoS2S2S2S2SSo;
+                   -+=+++++=:=++|++++++;.  )ovoXonnXS1vX2SS2S2SS2S2SS2S2S2S2S2S2S2S2S2S2S2S2S2SS2S2S2Sc
+                    =|;+++++=:=+|++|=|+|=: )SvXnSvnS2voXS2S2SS2S2SS2S2SS2SS2S2S2S2S2S2SS2SS2SS2S2S2S2So;
+                    :===|+++==;:++++++++||;=SI2oSovXnn22IX2S2S2S2S2S2S2S2S2S2S2SS2SS2S2S2S2S2S2S2SS2SSSc
+                     =+=++++++==:++++++|+|+;=1XoSS2SooX1nvS2S2S2S2S2S2S2S2S2S2SS2S2S2SS2S2S2S2S2S2S2S22o;
+                     -|;=++|=+===:=|++|=|+||;+nS22S2X22vXz32S2SS2S2S2S2S2S2S2SS2S2S2S2S2S2SS2S2SS2S2S2XSc
+                      =+;|+++++===;=++++|+|=+=nS2X2S2SSS2ovX2S2S2SoSS2SS2SoSS2S2S2S2SS2S2S2S2SS2S2SonX2Sz.
+                       ===++++++===:=|++|+|=|=vSS2S2SS222XvX2S2S2SoS2S2S2SoXoS2S2S2S2S2S2SS2S2S2S2SSo3S2o=
+                       :|=+++|++====;=++|+++++{S2S2S2S2SnSzvS2SS2SonS2S2S2SnS2S2S2SS2S2SS2S2S2S2SS2S2vS2Xc
+                        ===|+++++====:|++|++++iS2S2SS22Sv2XiX2S2S2XvX2SS2S2onX2SS2S2S2S2S2S2S2SS2S2S2ovSS1.
+                        -=++++++++====:+++++|=i2S2S2S22SznX%{S2S2SSonS2S2SS2nSS2S2S2SS2S2S2S2S2S2S2SSSz32o;
+                         :|++++|+++===::|+++++<S2SS2SSo2onXc+3S2S2SSvnX2S2S2onS2S2SS2S2SS2S2SS2S2S2S2SovXo;
+                          =+++|=+++====;=+++++<SS2S2S2SoSvXe=<S2SS2SXvS2S2SSSvX2S2S2S2S2S2SS2S2S2SS2S2SvnX>
+                          -+|+++++|=====:=+|++<22S2S2S2oSvSo=={S2S2SoovX2S22SovX2S2S2S2S2S2S2S2SS2S2S2SonX>
+                           :++++++==+====;=+++<nXS2S2S2nXv22>=={X2S2SSvS2SSS2Sz32SS2S2SS2S2S2S2S2S2S2S2SvSc
+                            =|=|+|:=+=====:+++<nX2S2SS2nXv2S>-:-{X2S2So%S22S2SX%X22S2SS2S2S2S2SS2S2S2SS2v2s
+                            -=+++= =|=====:=|=|nXS2S2S2nXv2S;.._=IXS2SSo%1X2S22ovSS2S2S2S2SS2S2S2S2SS22Sz31
+                             :|++- ++++====;=+|nX2S2S2SnSv2X==|++=IS2S2Xn=IX2SSSoIS2SS2S2S2S2SS2S2S2S2X2ono.
+                              =+= .++++=====:+|nX2S2SS2nS12S>++++==IX2S2Sa=|SoS2XonS2S22S2S2S2S2S2SS2S2Sovo;
+                               =-  +|++=====;=|nX2SS2S2nX12S>=|=|++=|1X2S2s=={S2S2oIS2SooX2S2S2S2S2S2S2SSvX;
+                               -  .+++++=====:<oSS22S22oSv22>+==;:;;;:{1XS2s==={SoXoIS2XXn2SS2S2SS2S2SS2SvS>
+                                  .+++++=====:=SS2SS2S2nXvS2>;==++|=++:={S2S%===={1Xo%322XnSoX2S2S2SS2S2S%Sc
+                                  .+++|+====;==X2S2S2SoX2v2o|++|++++|=+;;={1Xs==+==|*1iIX22onX2SS2S2S2S2S><n;
+                                   ++++++=====<SS2S2S2ooSvSo=----:==++|+;===|1n>=++===+=ISSSooS2S2S2S2S2S; {>
+                                  .|++|=+====;<X2S2S2XoS2vS2;._,_....-:++==+==+||+++++===|nSSSnXoS2S2S2S2= -l.
+                                   =++++|====={S2S2SS2nSovXo;jQQQ;. ... ++|=|=+++++|=|;:- =IX2SnS2SS2SS2S>  -;
+                                   -+|=++====;vSS2S2S2oSenXo;]WWm..qmw,..:|=+++++++++=-._ayc{S2SnnX2S2S2S>    .
+                                    :+++|=+===n2S2SS222S1oXo|=QWQ;. dWQa..:|++|++|++|;._mWW(.IXoXoX2S2S2X1
+                                     =|=++====nX2S2S222S1X22|=3QWL.]QWmWp .++++++++++;."4QW==lIS2Sn2S2S2So;
+                                      =+++====XS2SS2SoSSI2Se+:-4WQmQWWWWWc.++|=+++++|:,.mWW==liiX22oSS2S2S;
+                                      .=|=+==iS2S2S2S2SovXSe|=; "$QQWWQWWk.++++|++|++;qyWW(.=<IlI2SoS2S2SSc
+                                       ;=++=={2S2S2S2S22nS21+|+=;:"!?TH$QE:+|+++|+|+|=)QU^.=;<llivS22SoX2So;
+                                       v>=++=vX2SS2S2SS1nSSl++|+|=++=;;+!++++|+|+|+|+|=~:===;<lllln2S2222SSc
+                                       vXc:==oSS2S2SS2S1X2Si+|++|+|=|++++++|+|+|+|+|+|+;====;<lllliXoSSovXoo;
+                                      .vS2a;<X2S2S2S2S2v22o>+++|=++++++++|++|+|+|+|+++|+;===:<lllllvo22SovSSa.
+                                      .nS2XovS2S2S2S2S2vSSe|++|=+|=|=++|++|+++++++++++++=;==:iIllllloSnX2oIS2c
+                                      :oX2S2vS2SS2S2S2enSSl++++++++++|=+++++|++|=|=|++|++;==:vllllllv22vSSanSo>
+                                      <S2SS1oX2S2S2SSS1oX2i+|=|=|++++++++|=|=++++++++++++|::<lllllllv2Sov2Sc1So;
+                                      vS2S21S2SS2S2S22vSS2|=++++++++|=|+++++++++++++++++++==villllllvoSSovSo=<3o;
+                                     :oX2S2vXSoS2SS2SenS21=+|=|=++++++++++++++|++|++|++|+++=<lllllllvoS2SznXs -{s,
+                                     vX2SS1oXeoX2S2SS1oS2i++++++|+|++++++|++|+++++++++++++|==lllllllv22S2S%Xo;  -+;
+                                    :oSS22vX2vXS2S2S2vXSe|++|=|=;::=+|++|=+++++++|++++++++++=<llllllnoS2S2onSi    -
+                                    vXS2S1oXvX2S2SS2onS21++++++++=::;=+++++++++|+++|+|+||+|||=llllllvo2S2SSv2n.
+                                   =X2S2enXloS2S2S2S1oXX>=++|=|=|++;:+++++|++|=+++++++++++++==IllllIv2S2S2S1nX;
+                                  .oXS22vX1vXS2S2S2XvXS1;=+++++++++|;:|++|=+++=;;:|=|=|+++|=|<lllllIno2S2S2on2>
+                                  vS2S212vznS2S2SS2noSX>+;:++++++++++:=+++++++++|;:=+++++++=:<lllllInoS2S2SSvXc
+                                 =oSS21nnS1oX2S2S2SnXS1==++;=+|++|+++=:=+++|++|++===+++++|+;=vlllllvv22S2S2Sv21.
+                                :nXS21voX2vS2S2SS2oXo2l=+=+==:=+++++++::=++++++++++|+++|=++=%llllllvnoS2S2S2ono.
+                                vS2S22XS2SISS2S2S22S21v>==+=+=;:=|=|++=<w>:+=++=++==++|=+|;illlilllvn22S2S2Sono.
+                               <oS2S2S2S2ovS2S2S2SS22v1>:+=+=++=;:++++|:dQwaasisssss%;====illlllllIvo2S2S2S2oX1.
+                              _oXS2SS2S2SenSS2SS2S2Ssds>==+=+=+=+=;=+++=)WBWWBWWBW#WWQg%|llllllillvno22S2S2Son1
+                             .vXS2S2S2SSS1oX2S2S2oSevSi>;=+=+=+=+=+;:+++=3WmWWW#W#Q#WWZllllllllilIvnoS2S22So2Sc
+                             iXS2S2S2S2S2vX22S2S222vS2l>=+=++=++=+=+=;=|==3WWWWWmm#W#m1lllllillllvvn22S2S2SnoS(
+                            =d22S2S2S2S22n2XnSS2oXloX2l>==++=++=+=+=++;:++)WBWWWWWmWWWkillllllliIvvo2S2S2S2nS2(
+                           .nS22S2SS2SSSsoX12S2SoenXSol>==++++=+=+=+=+==;=+{QWWWWWW#WWElllllllllIvn222S2S2S1Xo;
+                           )XSeoX2S2S222vXenS2S2nvS2S2l>=++=+=+++=++=+=+=;;+$WWWWWW#BW#lllllllllIvo22S2S2SS1ne`
+                          =dS2vXS2S2SSSsoXlS2SSnvX2SoS%==++++++=+++=+=++=+==)WWWWWWmWWmlllllllllvno22S2S2S2on1
+                         .vS2sX22S2S2SevXsoX2S2voS2So3c=+++++=+++=++=+=+=++==3WWWWWWmWmlllllllllvnoS2S2S2S2on>
+                         <XeioS2o2S2S2vS1nX2SS1nXS2Sonz=+|++++++=++=+++=+=+=++$WWWWWWW#lllllllIlno22S2S2S2SoI`
+                        .n2+vS2SvXS2XloevS2S2nnX2S2Sono=|=+++++++++++=++++=+=={QWWWWWWEillllllvlnoS2S2SS2SS2>
+                        <2>:oS2eoX2Sso2vS2S2S2X2S2SS2nX>=+++|=++++=+=++=+=++=+=#XQQWWWCllllllvvvn22S2S2S2S2S>
+                       .n} )XSSvX2S1n2ioSS2S2S2SS2S22vS>+|+++++++++++++++++=++|#%UWWWB}InnvlIvvvoS2S2SS2S2SSc
+                       =e`.dS2enS21vnioXS2S2SS2S2S2S2lnz++++++|++++++++=+=+++==m>+YYXE=+|3#gvvloS2S2S2S2S2S2o.
+                       v~ <22SvS21no1nX2S2S2S2S2S2SSoXoo>=++|+++++++++++++++=+|m(;==|1=++=|Vma={*X2S2S2S2SS2X;
+                      :i  v2XenS2XS2vX2S2SoS2S2S2S2SodmIi+|++++++|++++++++++++=V(:+++=++++++3Wp=;=|YS2S2S22S2c
+                      <` .nSSvS2S22lX2S2S2nX2SS2SS2SodE=l=|=++++++++|+++++++++++==++++=|++++=)$m%+=::|YnXSovXo;
+                      >  :oS2vS2SSloXS2S2nS2S2S2S2S2odE+||=++|====|=++++|=|=++++++++==++++|+++|Vma=|+=;=+3SXv1a.
+                     .;  =S21oX2S1nXS2SS1oSS2S2S2S2Sem#++=|+++++=;:+|=|=+++++|=|=|==++|=|=+++++|3Qo>=|=+=;+S2aIi.
+                     :`  =X2vX2XevX2S2SenX2S2SS2S2SSnWE++++++++|+|==:+++|=|=|=+++==+++++++++|+++|3Wp>++|+|=:3Sa==
+                         <S2vX2XlS2S2S2nS2S2S2S2So2SvW#=|++++|+++++|===++++++++++|++|+++++|++++++=*Qma=+++++;{Xs..
+                         =SonSSloX2SS2nS2S2S2S2S2oS2nQ#>++++|=+++++++++++++++|+++++++++|++++++++++|{Qmp=|=+++=SX>
+                         =XenS2vXS2S22S2S2S2SS2SSno2dWWi=+++++++++|=+|=++|++==;=++++++++++++++|+++++*QWm%=|++=)2o;
+                         :X1nXsoX2S2S2S2S2SS2S2S21S1mWWc++|+++|++|=++++|++++++++|++|++|=+|++|+++++++=3WWmo>=+|:XSi
+                         :nonXvX2S2oS2SS2S2S2S2SSvXvQWWk++++++++++++|+++++++|=|=++++++++++++++++++|+==3WQQp%=+;vSz.
+                          non1nS2S1X2S2S2S2S2S2S2v23WWWm=++++|=++++++++++++++++++++++|=|+++++++++++++==$WWWmo>=)Xo:
+                          )o3vXSS1oS2S2S2SSoS2S2on1mWWWW%=|++++|+++++++=+|+++++|++|+++++++|++|=|=|=++|;)$WWQQmc<Xo;
+                          =ovvX22vS2S2SS2S2o2SSSoovQWWWWz=++++++++|+++|+;:+|++|=+++++++|++++++++++++++++3WWWWWmuXe`
+                           nvnS2lvSS2S2S2SSvX2S21zqWWWWQm=|=|+++++++++++|=;=+++++|=|++|=+|=|=+++++++|=|=|$WWWWQQo1
+                           )svS2+oX2XoS2S2enX2S2vnWWWWWWQc=++++|+++++|+++||;=|++|=+++++|+++++|=|=+++++++=vWWWWWWQo,
+                           -i{Sz:SS212SS2X1X2SSennWWWWQWWo=+++++++|+++++|=|+;=++++|++|++++|=+++++++++++++<$WWQWWWQp,
+                            =<X>:2S2vX2S22vS2S21onQWWWWWWm>++++++++++++++++||;=+|=+++++|++++|=++++++|++|==3QWWWWWWWp,
+                             :n==2SsoX2SSsX2S2SnnnQWWQWWQWz=+|++|++++|+++|=++|;=++|++|++++|=++|=++++++++++{WWWWWQWWWo.
+                              {(:XovXS2SevS2S2nQvnWWWWWWWWE=++++++++|=++|=+|++==+|=+|+++|++++++++++++++++=<WWWWQWWWWQa
+                              =;:nSvS2S21X2S2omWp)QWWQWWQWQc=++++++|=++++++++||==++|=|+++++++|=++++|++|+++=mWWWWWWWWWm>
+                               | n2vX2S2v2S2SoQWQ%WWWWWWWWWk==|++|++++|+++|++++|:+++|=+|++++|=+++++++++++==mWWWWWWQWWQp.
+                               . {SvX2SsoX2SoqWWWmdQWWWQWWWQ>==++++++++++++++|+|==+|=+|=++|=+++++|+++++++=<mWWWQWWWWWWW;
+                                 =ovX2SvX2SSoWWWWWQWWWQWWWWWp==+|=+++|=++|=|=++|+;+++|=++++++++++++++|+++=<QWWWWWQWWQWWC
+                                 -nvXSevSS22XWWWWWWWQWWWWWQWm>=+=+|++++|=++++|++|;=|=++|++|=|++|++++++++==vWWWWWQWWWWWWE.
+                                  <vX21oX2SomWWWWWWWWWWWWQWWQo=+++++++++++|=+++|=+:|=|=++++++++++++|++++==3WWWWWWWWWQWQm;
+                                  -vSS1S2S2omWWWWWQWWWWQWWWWWW>=+++++|++++++|++++|;++++++|=|=++++++++++===mWWWWQWWQWWWWW;
+                                   <2Ss2S2XoQWWWWWWWWQWWWWWWWWp;=+++++++|+++++++++;++++|++++++|++|++++===vQWWWWWWWWWWWWW;
+                                   :nXs2S2S3QWWWWQWWQWWWWQWQWWmc==+++++++++++++|++;+++++++++++++++++++===mWWWWWQWWQWWQWW;
+                                    {Xs2SSodQWWWQWWWWWWWWWWWWWQm>==++++++++|++|=++==++|=|=|=|++++++++===vQWWWWWWWWWWWWWm;
+                                    <2lnX22mWWWWWWWWQWWWQWWWQWWWp===++++|++++++=++;=+++++++++++|++++===<QWWWWWQWWQWWQWQ#`
+                                    =S>nX2omWWWWWWQWWWWQWWWQWWWWWp>==+++=++++++++=;=++++++++++++++====<mWWWWWWWWWWWWWWWE
+                                    <e`{XSnWBWWWWQWWWWQWWWWWWWWQWWp====++++++++=++;===+|++|++|++=+===vmQWWWWWWQWWQWWQWWe
+                                    <> =X2nmWWWWWWWWWQWWWWQWWQWWWWWpc;==++++++++==:==;===+=++==+====umWWWWQWWQWWWWWWWWW'
+                                    |` .IXnWmWWWWWWWQWWWWWWWWWWWWWWWma====+=++====;====;=+=+=+====vmWWQWWQWWWWWWWQWWWQ2
+                                   .+   -3omWWWWWWWWWWWWWQWWQWWQWQWWWQws=========;==;==;:||====sumWWWWWWWWWWWWQWWWWWWW(
+                                         -1#mWWWWWWWWWWWQWWWWWWWWWWWWWWmmas|=|=sv==|isisvXqwwqmWWWWWWWWWWQWWQWWWWWWWWe
+                                          -3WmWWWWWWWWWWWWWWQWWQWWWQWWWQWWQmmmmm&oqqmZ##Zmn##mWWBWWWWWWWWWWWWWWWWWWWE`
+                                           )#WWWWWWWWWQWWWWQWWWWWWQWWWWWWWWWWQWBX###ZZ#XUZXX#mmBWBWWWWWWWWWWWWWWWWWE'
+                                           :XmWBWWWWWWWWWWWWWWWQWWWWWQWWWWWWWWBXZXX111**|*SX##mmmBBBWBWWWWWWWWWWBWX~
+                                            {WmWWWWWWWWWWWQWWWWWWWWWWWWWWWWWWmWmor-       -"3###mmmmmBmBBBBBmBmm#e~
+                                            -3mBWWWWWWWWWWWWWWWWWWQWWWWWWWWWmB#e!`          -+X###mmmmmmmmmmmmmA}`
+                                             )#mBBWWWWWWWQWWWWWQWWWWWWWWWWBmB#}               -"SX###########X*~
+                                              {#mWBWWWWWWWWWWWWWWWWWWWWWWmBm#}                  -"!3XXXAXXX*|-
+                                               3#mmWmWWWWWWWWWQWWWWWWWWmmmmZ+                       -~"+---
+                                               -{#mmBWmWWWWWWWWWWWWWWmmmm#e`
+                                                 *U###mBBWBWWWWWBWmmmmm#X"`
+                                                  "3X####mmmmmmmmmmmm#X}`
+                                                    "3XZ#####mm####X1"`
+                                                      -"*SSXXXXYY*^-
+                                                          ------
