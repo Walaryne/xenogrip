@@ -12,10 +12,9 @@ void pinfo(char buf[]) {
 }
 
 
-int test() {
+void test() {
     printf("kek it worked.\n");
     exit(0);
-    return 0;
 }
 
 int xeno(void) {
