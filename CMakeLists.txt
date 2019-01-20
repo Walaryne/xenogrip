@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.1)
+project(xenogrip)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+set(LINKER_LANGUAGE "CXX")
+add_library(xenogrip SHARED src/xenogrip.cpp)
+set_property(TARGET xenogrip PROPERTY CXX_STANDARD 14)
