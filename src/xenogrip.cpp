@@ -55,5 +55,6 @@ int xeno(void) {
         printf("[xeno]ERRORNO: %d\n", errno);
     }
     mprotect((void *) PAGE_BASE_POINTER, MEMSET_SIZE, PROT_READ | PROT_EXEC);
+    pinfo((char *) "SUCCESSFULLY RELOCKED MEMORY");
     return 0;
 }
