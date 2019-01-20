@@ -5,6 +5,7 @@
 #include <error.h>
 #include <stdlib.h>
 #include "xenogrip.hpp"
+#include "options.hpp"
 
 void pinfo(char buf[]) {
     printf("[xeno]INFO: %s\n", buf);
@@ -20,7 +21,7 @@ int test() {
 int xeno(void) {
     __asm__(".section .init \n call _Z4xenov \n .section .text\n");
     pinfo((char *) "Xenogrip loaded!");
-    int retval = mprotect((void *) 0x00400000, 10816, PROT_WRITE | PROT_EXEC);
+    int retval = mprotect((void *) PAGE_BASE_POINTER, MEMSET_SIZE, PROT_WRITE | PROT_EXEC);
     if(retval == 0) {
         pinfo((char *) "SUCCESSFULLY UNLOCKED MEMORY");
         unsigned char tip[] = "\x48\xb8";
@@ -28,7 +29,7 @@ int xeno(void) {
         unsigned char tail[] = "\x00\x00\xff\xe0";
         char addrstr[14];
         char hexbuf[2];
-        void *initialwp = (void *) 0x00402a00;
+        void *initialwp = (void *) INITIAL_WRITE_POINTER;
         void *writeptr;
         int counter = 5;
 
@@ -54,5 +55,6 @@ int xeno(void) {
         pinfo((char *) "ERROR UNLOCKING MEMORY");
         printf("[xeno]ERRORNO: %d\n", errno);
     }
+    mprotect((void *) PAGE_BASE_POINTER, MEMSET_SIZE, PROT_READ | PROT_EXEC);
     return 0;
 }
