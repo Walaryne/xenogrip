@@ -13,7 +13,7 @@ void pinfo(char buf[]) {
 
 
 void test() {
-    printf("kek it worked.\n");
+    printf("It worked!\n");
     exit(0);
 }
 
