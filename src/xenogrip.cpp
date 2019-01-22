@@ -8,7 +8,6 @@
 #include <stdint.h>
 #include <dlfcn.h>
 #include <link.h>
-#include "xenogrip.hpp"
 #include "options.hpp"
 
 void pinfo(char buf[]) {
