@@ -46,7 +46,7 @@ int xeno(void) {
         pinfo((char *) "ERROR UNLOCKING MEMORY");
         printf("[xeno]ERRORNO: %d\n", errno);
     }
-    //mprotect((void *) PAGE_BASE_POINTER, pagesize, PROT_READ | PROT_EXEC);
+    mprotect(aligned_address, pagesize, PROT_READ | PROT_EXEC);
     pinfo((char *) "SUCCESSFULLY RELOCKED MEMORY");
     return 0;
 }
