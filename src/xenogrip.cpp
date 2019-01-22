@@ -37,8 +37,8 @@ int xeno(void) {
         *(short *)(INITIAL_WRITE_POINTER + 0x0) = 0xb848;
         *(long int *)(INITIAL_WRITE_POINTER + 0x02) = (long int) &test;
         *(short *)(INITIAL_WRITE_POINTER + 0xa) = 0xe0ff;
-        
-        //printf("[xeno]INFO: Overwrote instructions at %p\n", initialwp);
+
+        printf("[xeno]INFO: Overwrote instructions at %p\n", (void *) INITIAL_WRITE_POINTER);
         //printf("[xeno]ERRORNO: %d\n", errno);
         //printf("[xeno]TESTFUNC: %p\n", test);
         //printf("[xeno]HEX2INT: %d\n", hex2int((char *)"2d"));
