@@ -1,8 +1,6 @@
 #ifndef OPTIONS_HPP_
 #define OPTIONS_HPP_
 
-#define PAGE_BASE_POINTER 0x00400000
-#define MEMSET_SIZE 0x2a40
 #define INITIAL_WRITE_POINTER 0x00402a00
 
 #endif /* OPTIONS_HPP_ */
