@@ -22,7 +22,6 @@ Finding where you want to write to can be done many ways, but using Radare2 and 
 ---
 Fire up CMake's GUI, or use the command line and do the usual configure than generate. Run make (or whatever you're using) in the build directory.
 
-
 #### Running
 ---
 Running it is simple. For the example (while in your build directory), run:
