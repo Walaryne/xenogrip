@@ -1,4 +1,7 @@
 # libxenogrip.so
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/1316f71ae7d2437ba461e8a8bfdfe006)](https://app.codacy.com/app/Walaryne/xenogrip?utm_source=github.com&utm_medium=referral&utm_content=Walaryne/xenogrip&utm_campaign=Badge_Grade_Dashboard)
+
 ---
 A shared library utilizing the ELF standard's .init section and mprotect() to on-the-fly patch instructions into a binary.
 
