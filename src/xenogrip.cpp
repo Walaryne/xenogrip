@@ -1,11 +1,8 @@
-#include <stdio.h>
+#include <cstdio>
 #include <sys/mman.h>
-#include <string.h>
-#include <errno.h>
-#include <error.h>
-#include <stdlib.h>
+#include <cerrno>
+#include <cstdlib>
 #include <unistd.h>
-#include <stdint.h>
 #include <dlfcn.h>
 #include <link.h>
 #include "options.hpp"
@@ -15,7 +12,7 @@ void pinfo(char buf[]) {
 }
 
 unsigned long get_base_pointer() {
-        struct link_map* lm = (struct link_map *) dlopen(NULL, RTLD_NOW);
+        auto* lm = (struct link_map *) dlopen(nullptr, RTLD_NOW);
         return (unsigned long)lm -> l_addr;
 }
 
@@ -24,7 +21,7 @@ void test() {
     exit(0);
 }
 
-int xeno(void) {
+int xeno() {
     __asm__(".section .init \n call _Z4xenov \n .section .text\n");
     pinfo((char *) "Xenogrip loaded!");
     long pagesize = sysconf(_SC_PAGESIZE);
@@ -33,9 +30,9 @@ int xeno(void) {
     if(retval == 0) {
         pinfo((char *) "SUCCESSFULLY UNLOCKED MEMORY");
 
-        *(short *)(INITIAL_WRITE_POINTER + 0x0) = 0xb848;
+        *(short *)(INITIAL_WRITE_POINTER + 0x0) = (short) 0xb848;
         *(long int *)(INITIAL_WRITE_POINTER + 0x02) = (long int) &test;
-        *(short *)(INITIAL_WRITE_POINTER + 0xa) = 0xe0ff;
+        *(short *)(INITIAL_WRITE_POINTER + 0xa) = (short) 0xe0ff;
 
         printf("[xeno]INFO: Overwrote instructions at %p\n", (void *) INITIAL_WRITE_POINTER);
         //printf("[xeno]ERRORNO: %d\n", errno);
